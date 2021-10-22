@@ -12,7 +12,7 @@ How did you overcome any roadblocks you encountered while going through the acti
 One roadblock I encountered while going through this project was figuring out how to read through the CSV file. Lines might have different numbers of entries. I had to make sure that the program was able to read exactly the number of entries on each line, which I found difficult, and the resources available to me we not as helpful as I had hoped. I did a bit of trial and error and eventually found a solution and got my code working. All the other aspects of my code seem to have worked well on the first try thanks to previous implimentation of a binary search tree.
 
 
-How has your work on this project expanded your approach to designing software and developing programs?\
+How has your work on this project expanded your approach to designing software and developing programs?
 My work on this project has helped me to understand the strength and weeknesses of different data structures. I have learned to impliment each of the data structures we went through in this course. I also learned how to approach a more complex project. I got a better understanding of planning and anaylsis of my code. 
 
 
